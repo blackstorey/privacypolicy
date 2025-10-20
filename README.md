@@ -6,9 +6,9 @@ Please select a document below to view its contents.
 
 ---
 
-### **[View our Privacy Policy](./PRIVACY)**
+### **[View our Privacy Policy](./PRIVACY.html)**
 
-### **[View our Terms of Service](./TERMS)**
+### **[View our Terms of Service](./TERMS.html)**
 
 
 *Last Updated: October 20, 2025*
