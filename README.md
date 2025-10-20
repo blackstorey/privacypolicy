@@ -1,10 +1,14 @@
-# Legal Documents for [Your App Name]
+# Legal Documents
 
-This repository hosts the legal and compliance documents for our application.
+This page hosts the Privacy Policy and Terms of Service for our application.
 
-## Policies
+Please select a document below to view its contents.
 
-*   **[Privacy Policy](./PRIVACY)**
-*   **[Terms of Service](./TERMS)**
+---
+
+### **[View our Privacy Policy](./PRIVACY)**
+
+### **[View our Terms of Service](./TERMS)**
+
 
 *Last Updated: October 20, 2025*
