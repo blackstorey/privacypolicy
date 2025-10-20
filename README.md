@@ -1,4 +1,4 @@
-# Legal Documents for [Kashera]
+# Legal Documents for [Your App Name]
 
 This repository hosts the legal and compliance documents for our application.
 
